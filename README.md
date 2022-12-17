@@ -2,7 +2,7 @@
 This is the simulation code for an upcoming AAAI 2023 paper:
 Hongbo, L.; Lingjie, D. 2023. When Congestion Games Meet Mobile Crowdsourcing: Selective Information Disclosure. In Proceedings of the AAAI Conference on Artificial Intelligence.
 
-Please find the online technical report here:
+Please find the online version here:
 https://arxiv.org/abs/2211.14029
 
 
